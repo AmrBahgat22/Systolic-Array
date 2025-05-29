@@ -6,4 +6,4 @@ The systolic array in the thesis is implemented as follows:
 - Each PE performs a multiply-accumulate (MAC) operation, which is fundamental to convolutional computations.
 
 
-###### PEs are arranged in an 8x8 grid, totaling 64 PEs per core. With 8 cores, the design uses 512 DSP blocks (60% of the FPGA's DSP resources).
+-- PEs are arranged in an 8x8 grid, totaling 64 PEs per core. With 8 cores, the design uses 512 DSP blocks (60% of the FPGA's DSP resources).
